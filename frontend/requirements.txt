@@ -1,0 +1,23 @@
+# AI Project Manager - Frontend Requirements
+# Matches backend requirements exactly + Streamlit for UI
+
+# Core Framework (Frontend only)
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Visualization
+plotly>=5.14.0
+
+# AI/ML Framework (matches backend exactly)
+langchain-groq>=0.1.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Excel Export
+openpyxl>=3.1.0
+
+# Date/Time
+python-dateutil>=2.8.0
